@@ -16,8 +16,8 @@ const Header = () => {
                 </div>
             </div> */}
             <div className="flex flex-row justify justify-between">
-                <a rel="noreferrer" href="http://www.instagram.com/nudobycris" target="_blank" className="text-nudoRed text-2xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-6xl flex-start">@nudobycris</a>
-                <p className="text-nudoRed text-2xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-6xl flex-end">nudobycris[at]gmail.com</p>
+                <a rel="noreferrer" href="http://www.instagram.com/nudobycris" target="_blank" className="text-nudoRed text-xl xs:text-xl sm:text-3xl md:text-4xl lg:text-6xl flex-start">@nudobycris</a>
+                <p className="text-nudoRed text-xl xs:text-xl sm:text-3xl md:text-4xl lg:text-6xl flex-end">nudobycris[at]gmail.com</p>
             </div>
         </div>
     )
