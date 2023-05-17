@@ -6,7 +6,7 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-              'nudoRed':'#FF0000'
+                'nudoRed':'#FF0000'
             }
         },
         screens: {
